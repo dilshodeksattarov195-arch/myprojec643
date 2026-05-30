@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpave",
+        "uuid": 3557719,
+        "checksum": "o96wwj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
